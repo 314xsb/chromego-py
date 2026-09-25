@@ -5,27 +5,22 @@
 # =======================
 
 {
-"server": "5.83.129.153:20088",
+"server": "62.210.70.191:23556",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 250,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
-"timeout": 250,
+"timeout": 300,
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "dongtaiwang.com",
+"auth_str": "github.com/Alvin9999-newpac/fanqiang",
 "alpn": "h3",
-"server_name": "apple.com",
+"server_name": "bing.com",
 "insecure": true,
-"recv_window_conn": 69206016,
-"recv_window": 276824064,
+"recv_window_conn": 57671680,
+"recv_window": 230686720,
 "disable_mtu_discovery": true,
 "resolver": "https://223.5.5.5/dns-query",
 "retry": 3,
@@ -36,32 +31,24 @@
 "fast_open": true,
 "hop_interval": 120
 }
-
-
-
 
 {
-"server": "5.83.129.153:20088",
+"server": "62.210.70.191:23556",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 250,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
-"timeout": 250,
+"timeout": 300,
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "dongtaiwang.com",
+"auth_str": "github.com/Alvin9999-newpac/fanqiang",
 "alpn": "h3",
-"server_name": "apple.com",
+"server_name": "bing.com",
 "insecure": true,
-"recv_window_conn": 69206016,
-"recv_window": 276824064,
+"recv_window_conn": 57671680,
+"recv_window": 230686720,
 "disable_mtu_discovery": true,
 "resolver": "https://223.5.5.5/dns-query",
 "retry": 3,
@@ -72,19 +59,12 @@
 "fast_open": true,
 "hop_interval": 120
 }
-
-
 
 {
 "server": "5.83.129.90:54177",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 300,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
 "timeout": 300,
@@ -108,17 +88,11 @@
 "hop_interval": 120
 }
 
-
 {
 "server": "5.83.129.90:54177",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 300,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
 "timeout": 300,
@@ -142,29 +116,23 @@
 "hop_interval": 120
 }
 
-
 {
-"server": "5.83.129.153:20088",
+"server": "62.210.70.191:23556",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 250,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
-"timeout": 250,
+"timeout": 300,
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "dongtaiwang.com",
+"auth_str": "github.com/Alvin9999-newpac/fanqiang",
 "alpn": "h3",
-"server_name": "apple.com",
+"server_name": "bing.com",
 "insecure": true,
-"recv_window_conn": 69206016,
-"recv_window": 276824064,
+"recv_window_conn": 57671680,
+"recv_window": 230686720,
 "disable_mtu_discovery": true,
 "resolver": "https://223.5.5.5/dns-query",
 "retry": 3,
@@ -176,33 +144,23 @@
 "hop_interval": 120
 }
 
-
-
-
-
-
 {
-"server": "5.83.129.153:20088",
+"server": "62.210.70.191:23556",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 250,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
-"timeout": 250,
+"timeout": 300,
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "dongtaiwang.com",
+"auth_str": "github.com/Alvin9999-newpac/fanqiang",
 "alpn": "h3",
-"server_name": "apple.com",
+"server_name": "bing.com",
 "insecure": true,
-"recv_window_conn": 69206016,
-"recv_window": 276824064,
+"recv_window_conn": 57671680,
+"recv_window": 230686720,
 "disable_mtu_discovery": true,
 "resolver": "https://223.5.5.5/dns-query",
 "retry": 3,
@@ -213,20 +171,12 @@
 "fast_open": true,
 "hop_interval": 120
 }
-
-
-
 
 {
 "server": "5.83.129.90:54177",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
-"http": {
-"listen": "127.0.0.1:1081",
-"timeout" : 300,
-"disable_udp": false
-},
 "socks5": {
 "listen": "127.0.0.1:1080",
 "timeout": 300,
@@ -249,8 +199,6 @@
 "fast_open": true,
 "hop_interval": 120
 }
-
-
 
 {
 "server": "5.83.129.90:54177",

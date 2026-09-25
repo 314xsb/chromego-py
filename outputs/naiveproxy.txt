@@ -7,11 +7,14 @@
 
 {
   "listen":  "socks://127.0.0.1:1080",
-  "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:44000"
+  "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:23001"
 }
 
-# 【错误】无法访问 https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/naiveproxy/1/config.json：HTTP Error 429: Too Many Requests
 
+{
+  "listen":  "socks://127.0.0.1:1080",
+  "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:23001"
+}
 
 
 {
